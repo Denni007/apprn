@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "618233513056",
+    "firebase_url": "https://surati.firebaseio.com",
+    "project_id": "surati",
+    "storage_bucket": "surati.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618233513056:android:a179bf07b4638562a4af05",
+        "android_client_info": {
+          "package_name": "com.mytestapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "618233513056-farjrg4hgocfbdcs9qj16t6jro5hk8ia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCujQCEx_PcC6gQzWKbbTiscW00FiA6opk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "618233513056-farjrg4hgocfbdcs9qj16t6jro5hk8ia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
